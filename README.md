@@ -66,9 +66,9 @@ public class Xiawang {
 
 ```
 # 流程图
-![images](https://github.com/xsharks/test/blob/master/%E7%BB%93%E6%9E%9C.png)
+![images](https://github.com/xsharks/test/blob/master/%E6%9C%AA%E5%91%BD%E5%90%8D%E6%96%87%E4%BB%B6%20(1).png)
 
 # 运行结果
-![images](https://github.com/xsharks/test/blob/master/%E6%9C%AA%E5%91%BD%E5%90%8D%E6%96%87%E4%BB%B6%20(1).png)
+![images](https://github.com/xsharks/test/blob/master/%E7%BB%93%E6%9E%9C.png)
 
 # 实验感想
